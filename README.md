@@ -2,7 +2,7 @@
 >收集好的文章，写写个人心得
 
 ####| markDown语法大全
-* [markDown语法大全](https://github.com/bailicangdu/react-blog/issues/1)
+* [markDown语法大全](https://github.com/bailicangdu/blog/issues/2)
 
 ####| React
 
