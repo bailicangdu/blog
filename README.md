@@ -1,5 +1,5 @@
 #blog
->关注 ES6、React、Redux、Webpack、性能优化 等
+>收集好的文章，写写个人心得
 
 ####| React
 
