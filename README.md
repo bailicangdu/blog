@@ -1,4 +1,4 @@
-# react-blog
+#blog
 >关注 ES6、React、Redux、Webpack、性能优化 等
 
 ####| React
