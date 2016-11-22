@@ -1,5 +1,5 @@
 #blog
->收集好的文章，写写个人心得
+>感悟
 
 ####| markDown语法大全
 * [markDown语法大全](https://github.com/bailicangdu/blog/issues/2)
