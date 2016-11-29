@@ -16,4 +16,4 @@
 * [如何开发一个 Webpack Loader ( 一 )](https://github.com/joeyguo/blog/issues/4)
 
 ##| 综合
-* [谈谈函数式编程 ( Functional Programming ) ](https://github.com/joeyguo/blog/issues/10)
+* [谈谈函数式编d程 ( Functional Programming ) ](https://github.com/joeyguo/blog/issues/10)
