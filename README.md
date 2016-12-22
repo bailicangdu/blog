@@ -18,3 +18,6 @@
 ##| 综合
 * [谈谈函数式编d程 ( Functional Programming ) ](https://github.com/joeyguo/blog/issues/10)
 ，➋➋➎，
+
+
+<p color='red'>测试</p>
