@@ -1,6 +1,6 @@
 #blog
 
-##| react + redux 个人感悟
+##| react + redux 个人感
 * [react + redux 个人感悟](https://github.com/bailicangdu/blog/issues/3)
 
 ##| markDown语法大全
