@@ -6,7 +6,7 @@
 ## markDown语法大全
 * [markDown语法大全](https://github.com/bailicangdu/blog/issues/2)
 
-#### React
+## React
 
 * [前端路由实现与 react-router 源码分析](https://github.com/bailicangdu/react-blog/issues/1)
 * [React 数据流管理架构之 Redux](https://github.com/joeyguo/blog/issues/3)
